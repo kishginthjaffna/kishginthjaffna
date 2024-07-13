@@ -10,18 +10,18 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working **Student Management System**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **React, MongoDB, php**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kishginthjaffna/kishginthjaffna/issues)**
+💬 Ask me about **anything [here](https://github.com/kishginthjaffna/kishginthjaffna/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Math problem looks hard until you work on it but coding looks easy until you start to code**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:kishgi1234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
