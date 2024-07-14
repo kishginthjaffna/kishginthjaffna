@@ -8,17 +8,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working **Student Management System**
- 
- 🌱 I’m currently learning **React, MongoDB, php**
-
-💬 Ask me about **anything [here](https://github.com/kishginthjaffna/kishginthjaffna/issues)**
-
-⚡ Fun fact **Math problem looks hard until you work on it but coding looks easy until you start to code**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:kishgi1234@gmail.com">
@@ -37,8 +26,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
