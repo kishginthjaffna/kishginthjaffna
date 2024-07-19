@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kishgi!;" />
 </h1>
 
-<h3 align="center">A software developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A Software Engineering UG from Sri Lanka 🇱🇰</h3>
 
 <br/>
 
@@ -47,7 +47,7 @@
 <br>
 <div align=center>
  
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kishginthjaffna&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=600 src="https://github-readme-stats.vercel.app/api?username=kishginthjaffna&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
 
